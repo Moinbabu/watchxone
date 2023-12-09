@@ -1,2 +1,2 @@
 # watchxone
-ttps://moinbabu.github.io/watchxone/
+https://moinbabu.github.io/watchxone/
